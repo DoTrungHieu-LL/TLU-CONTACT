@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TLUContact</string>
+    <string name="app_description">Danh bạ điện tử Trường Đại học Thủy Lợi</string>
+    <string name="unit_directory">Danh bạ đơn vị</string>
+    <string name="staff_directory">Danh bạ CBNV</string>
+    <string name="phone">Điện thoại:</string>
+    <string name="address">Địa chỉ:</string>
+    <string name="email">Email:</string>
+    <string name="website">Website:</string>
+    <string name="description">Mô tả:</string>
+    <string name="position">Chức vụ:</string>
+    <string name="unit">Đơn vị:</string>
+    <string name="office">Văn phòng:</string>
+    <string name="call">Gọi điện</string>
+    <string name="tlu_logo">Logo trường Đại học Thủy Lợi</string>
+</resources>
